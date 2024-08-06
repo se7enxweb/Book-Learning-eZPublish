@@ -6,11 +6,11 @@ This file is part of Learning eZ Publish 3 Book.
 
 ## PDF
 
-Read the book [online](Book-Learning-eZ-Publish-3.pdf), [download](Book-Learning-eZ-Publish-3.pdf) or print the book.
+Read the book [online](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Learning-eZ-Publish-3.pdf), [download](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Learning-eZ-Publish-3.pdf) or print the book.
 
 ## Microsoft Word
 
-Edit the Microsoft Word [source of the book](Book-Source-v000-Learning-eZ-Publish-3.docx) to reach your own goals!
+Edit the Microsoft Word [source of the book](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Source-v000-Learning-eZ-Publish-3.docx) to reach your own goals!
 
 ## Libre Office
 
