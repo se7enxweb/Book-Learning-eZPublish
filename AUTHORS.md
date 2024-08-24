@@ -9,6 +9,7 @@ The original authors and publisher of the book have given 7x their written conse
 ### Paul Borgermans
 ### Bjorn Dieding
 ### Martin Bauer
+### Ben Pirt
 ### Packt Publishing
 
 ## License of the Book

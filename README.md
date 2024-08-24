@@ -1,6 +1,6 @@
 # Learning eZ Publish 3
 
-This file is part of Learning eZ Publish 3 Book.
+This file is part of Learning eZ Publish 3 Book first published By Packt Publishing on April 30, 2004 and later re-licensed as GNU FDL on April 29, 2024 by Graham Brookins @ 7x who is continuing the distribution and development of eZ Publish 6 which is source compatible with this book (minus a few api updates).
 
 # Downloads
 
@@ -24,6 +24,7 @@ The original authors and publisher of the book have given 7x their written conse
 ## Paul Borgermans
 ## Bjorn Dieding
 ## Martin Bauer
+## Ben Pirt
 ## Packt Publishing
 
 # License of the Book
