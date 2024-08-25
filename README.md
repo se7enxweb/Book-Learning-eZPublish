@@ -6,13 +6,15 @@ This file is part of Learning eZ Publish 3 Book first published By Packt Publish
 
 ## PDF
 
-Read the book [online](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Learning-eZ-Publish-3.pdf), [download](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Learning-eZ-Publish-3.pdf) or print the book.
+Read the book [online](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish/main/Learning-eZ-Publish.pdf), [download](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish/main/Learning-eZ-Publish.pdf) or print the book.
 
 ## Microsoft Word
 
-Edit the Microsoft Word [source of the book](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish-3/main/Book-Source-v000-Learning-eZ-Publish-3.docx) to reach your own goals!
+Edit the Microsoft Word [source of the book](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish/main/source/Learning-eZ-Publish.docx) to reach your own goals!
 
-## Libre Office
+## ODT - Libre Office / Open Office
+
+Edit the Book Using Libre Office [source of the book](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish/main/source/Learning-eZ-Publish.odt) to reach your own goals!
 
 
 # Authors of the Book
