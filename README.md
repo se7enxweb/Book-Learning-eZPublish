@@ -2,6 +2,10 @@
 
 This file is part of Learning eZ Publish 3 Book first published By Packt Publishing on April 30, 2004 and later re-licensed as GNU FDL on April 29, 2024 by Graham Brookins @ 7x who is continuing the distribution and development of eZ Publish 6 which is source compatible with this book (minus a few api updates).
 
+# Cover
+
+![Learning eZ Publish](https://raw.githubusercontent.com/se7enxweb/Book-Learning-eZPublish/main/cover.png)
+
 # Downloads
 
 ## PDF
